@@ -7,12 +7,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Sou+Daniel+Mesquita+de+Sousa.;Tenho+28+anos.;Sou+brasileiro.;Sou+formado+em+Engenharia+Química.;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <!--Caixa de status e linguagens-->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielmesquit&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=ff91a4&text_color=7FFFD4&bg_color=19197020" alt="Daniel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmesquit&layout=compact&hide_border=true&title_color=FF1493&text_color=7FFFD4&bg_color=19197020" />
+<div>
+<a href="https://github.com/danielmesquit/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=danielmesquit&show_icons=true&theme=radical" alt="Daniel github Status" title="Daniel github Status">
+</a>
+<a href="https://github.com/danielmesquit/convoychat"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmesquit&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" alt="Daniel github Languages" title="Daniel github Languages">
+</a>
 </div>
 
-<h3 style color: #FF1493> Studying in this moment:</h3>
+<h3> Studying in this moment:</h3>
 <!--Badges de linguagens-->
 <div style display = inline_block><br> 
   <img aling= center alt="Python" title="Python" height ="30" widht = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -62,13 +65,9 @@
 -->
 
 <!--Status do Read ME
-<div>
-<a href="https://github.com/danielmesquit/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=danielmesquit&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/danielmesquit/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmesquit&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielmesquit&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=ff91a4&text_color=7FFFD4&bg_color=19197020" alt="Daniel github stats" title="Daniel github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmesquit&layout=compact&hide_border=true&title_color=FF1493&text_color=7FFFD4&bg_color=19197020" alt="Daniel github Languages" title="Daniel github Languages"/>
 </div>
 
 ##
