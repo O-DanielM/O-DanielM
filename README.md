@@ -53,3 +53,4 @@
 
 ##
 
+![Snake animation](https://github.com/danielmesquit/danielmesquit/blob/output/github-contribution-grid-snake.svg)
