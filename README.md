@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Sou+Daniel+Mesquita+de+Sousa.;Tenho+28+anos.;Sou+brasileiro.;Sou+formado+em+Engenharia+Química.;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <!--Caixa de status e linguagens-->
-<div>
+<div aling ="center">
 <a href="https://github.com/danielmesquit/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=danielmesquit&show_icons=true&theme=radical" alt="Daniel github Status" title="Daniel github Status">
 </a>
