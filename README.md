@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Mesquita+de+Sousa;I'm+28+years+old;I'm+from+Brazil;I+Graduated+Chemical+Engenieering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--Saudação Dinâmica Português--> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Sou+Daniel+Mesquita+de+Sousa.;Tenho+28+anos.;Sou+brasileiro.;Sou+formado+em+Engenharia+Química.;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Sou+Daniel+Mesquita+de+Sousa.;Tenho+29+anos.;Sou+brasileiro.;Sou+formado+em+Engenharia+Química.;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <!--Caixa de status e linguagens-->
 <div aling ="center">
