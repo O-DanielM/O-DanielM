@@ -8,9 +8,9 @@
 
 <!--Caixa de status e linguagens-->
 <div aling ="center">
-<a href="https://github.com/danielmesquit/github-readme-stats">
+<!-- <a href="https://github.com/danielmesquit/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=danielmesquit&show_icons=true&theme=radical" alt="Daniel github Status" title="Daniel github Status">
-</a>
+</a> -->
 <a href="https://github.com/danielmesquit/convoychat"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielmesquit&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" alt="Daniel github Languages" title="Daniel github Languages">
 </a>
 </div>
